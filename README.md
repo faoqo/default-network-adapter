@@ -19,3 +19,5 @@ route -f
 timeout /t 1
 pause
 
+I think you should use an
+`<addr>` element here instead.
