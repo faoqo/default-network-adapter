@@ -16,5 +16,4 @@ netsh winsock reset
 
 route -f
 
-pause
 ```
